@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Karleedicsean
-- 👀 I’m interested in app and web development
-- 🌱 I’m currently learning flutter
+- 👋 Hi, I’m @GeoffreyEdung
+- 👀 I’m interested in mobile android app development
+- 🌱 I’m a professional software developer
 - 💞️ I’m looking to collaborate on apps and web development
 - 📫 How to reach me karleedicsean@gmail.com
 
