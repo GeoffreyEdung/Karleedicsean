@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile android app development
 - 🌱 I’m a professional software developer
 - 💞️ I’m looking to collaborate on apps and web development
-- 📫 How to reach me karleedicsean@gmail.com
+- 📫 How to reach me geoffreyedung69@gmail.com
 
 <!---
 Karleedicsean/Karleedicsean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
